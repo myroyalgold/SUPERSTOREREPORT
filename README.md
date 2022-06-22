@@ -4,4 +4,10 @@
 
 ---
 
+#DataSourcing: it was posted on 30DaysOfLearning discord chanenel and here is the link https://aka.ms/30DLDATGitHubRepo
+
+---
+#DataTransformation: i make sure all the null values in each of the normalized query is removed.
+
+---
 
